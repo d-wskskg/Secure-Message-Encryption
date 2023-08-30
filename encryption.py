@@ -1,7 +1,6 @@
 from string import whitespace
 import sys
 import time
-import datetime
 
 def encryption_algo():
 
